@@ -1,0 +1,58 @@
+﻿@model FitnessApplication.Controllers.User
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fitness App - Support</title>
+    <link rel="stylesheet" href="~/css/Support.css">
+</head>
+<body>
+
+
+    <main>
+        <section>
+            <h2>Support</h2>
+
+            <div class="contact-info-section">
+                <h3>Contact Information</h3>
+                <p><strong>Email:</strong> support@fitnessapp.com</p>
+                <p><strong>Phone:</strong> +90 (554) 575-3896</p>
+            </div>
+
+            <div class="address-section">
+                <h3>Our Address</h3>
+                <p>Fitness App Headquarters</p>
+                <p>123 Fitness Street</p>
+                <p>Healthy City, Fit Country</p>
+                <p>ZIP Code: 12345</p>
+            </div>
+
+            <div class="contact-form-section">
+                <h3>Contact Support</h3>
+                <form action="/Support/SendSupportRequest" method="post">
+                    <div class="form-group">
+                        <label for="name">Name:</label>
+                        <input type="text" id="name" name="name" value="@Model.Name @Model.Surname" readonly>
+                    </div>
+                    <div class="form-group">
+                        <label for="email">Email:</label>
+                        <input type="email" id="email" name="email" value="@Model.Email" readonly>
+                    </div>
+                    <div class="form-group">
+                        <label for="subject">Subject:</label>
+                        <input type="text" id="subject" name="subject" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="message">Message:</label>
+                        <textarea id="message" name="message" rows="5" required></textarea>
+                    </div>
+                    <button type="submit">Send</button>
+                </form>
+            </div>
+        </section>
+    </main>
+
+</body>
+</html>

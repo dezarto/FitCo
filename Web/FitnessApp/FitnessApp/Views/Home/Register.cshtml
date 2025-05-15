@@ -1,0 +1,33 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Register</title>
+    <link rel="stylesheet" href="~/css/login.css">
+</head>
+<body>
+    <div class="login-page">
+        <div class="login-header">
+            <h1>REGISTER</h1>
+        </div>
+        <div class="form">
+            <form asp-action="Register" asp-controller="Account" method="post" class="login-form">
+                <input type="text" placeholder="name" />
+                <input type="text" placeholder="surname" />
+                <input type="text" placeholder="username" />
+                <input type="password" placeholder="password" />
+                <input type="password" placeholder="Confirm password" />
+                <button>login</button>
+                <p class="message">Go to login page => <a href="#">Login page</a></p>
+            </form>
+        </div>
+    </div>
+
+</body>
+</html>

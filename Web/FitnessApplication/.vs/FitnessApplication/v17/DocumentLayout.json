@@ -1,0 +1,419 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Onur\\source\\repos\\FitnessApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0454229A-7CCA-4756-8089-207BA8D5ED15}|FitnessApplication\\FitnessApplication.csproj|c:\\users\\onur\\source\\repos\\fitnessapplication\\fitnessapplication\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0454229A-7CCA-4756-8089-207BA8D5ED15}|FitnessApplication\\FitnessApplication.csproj|solutionrelative:fitnessapplication\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0454229A-7CCA-4756-8089-207BA8D5ED15}|FitnessApplication\\FitnessApplication.csproj|c:\\users\\onur\\source\\repos\\fitnessapplication\\fitnessapplication\\views\\account\\support.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0454229A-7CCA-4756-8089-207BA8D5ED15}|FitnessApplication\\FitnessApplication.csproj|solutionrelative:fitnessapplication\\views\\account\\support.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0454229A-7CCA-4756-8089-207BA8D5ED15}|FitnessApplication\\FitnessApplication.csproj|c:\\users\\onur\\source\\repos\\fitnessapplication\\fitnessapplication\\controllers\\coachescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0454229A-7CCA-4756-8089-207BA8D5ED15}|FitnessApplication\\FitnessApplication.csproj|solutionrelative:fitnessapplication\\controllers\\coachescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0454229A-7CCA-4756-8089-207BA8D5ED15}|FitnessApplication\\FitnessApplication.csproj|c:\\users\\onur\\source\\repos\\fitnessapplication\\fitnessapplication\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0454229A-7CCA-4756-8089-207BA8D5ED15}|FitnessApplication\\FitnessApplication.csproj|solutionrelative:fitnessapplication\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0454229A-7CCA-4756-8089-207BA8D5ED15}|FitnessApplication\\FitnessApplication.csproj|c:\\users\\onur\\source\\repos\\fitnessapplication\\fitnessapplication\\views\\coaches\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0454229A-7CCA-4756-8089-207BA8D5ED15}|FitnessApplication\\FitnessApplication.csproj|solutionrelative:fitnessapplication\\views\\coaches\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0454229A-7CCA-4756-8089-207BA8D5ED15}|FitnessApplication\\FitnessApplication.csproj|c:\\users\\onur\\source\\repos\\fitnessapplication\\fitnessapplication\\wwwroot\\css\\support.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0454229A-7CCA-4756-8089-207BA8D5ED15}|FitnessApplication\\FitnessApplication.csproj|solutionrelative:fitnessapplication\\wwwroot\\css\\support.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0454229A-7CCA-4756-8089-207BA8D5ED15}|FitnessApplication\\FitnessApplication.csproj|c:\\users\\onur\\source\\repos\\fitnessapplication\\fitnessapplication\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0454229A-7CCA-4756-8089-207BA8D5ED15}|FitnessApplication\\FitnessApplication.csproj|solutionrelative:fitnessapplication\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0454229A-7CCA-4756-8089-207BA8D5ED15}|FitnessApplication\\FitnessApplication.csproj|c:\\users\\onur\\source\\repos\\fitnessapplication\\fitnessapplication\\views\\coaches\\programdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0454229A-7CCA-4756-8089-207BA8D5ED15}|FitnessApplication\\FitnessApplication.csproj|solutionrelative:fitnessapplication\\views\\coaches\\programdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0454229A-7CCA-4756-8089-207BA8D5ED15}|FitnessApplication\\FitnessApplication.csproj|c:\\users\\onur\\source\\repos\\fitnessapplication\\fitnessapplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0454229A-7CCA-4756-8089-207BA8D5ED15}|FitnessApplication\\FitnessApplication.csproj|solutionrelative:fitnessapplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0454229A-7CCA-4756-8089-207BA8D5ED15}|FitnessApplication\\FitnessApplication.csproj|c:\\users\\onur\\source\\repos\\fitnessapplication\\fitnessapplication\\views\\coaches\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0454229A-7CCA-4756-8089-207BA8D5ED15}|FitnessApplication\\FitnessApplication.csproj|solutionrelative:fitnessapplication\\views\\coaches\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0454229A-7CCA-4756-8089-207BA8D5ED15}|FitnessApplication\\FitnessApplication.csproj|c:\\users\\onur\\source\\repos\\fitnessapplication\\fitnessapplication\\views\\coaches\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0454229A-7CCA-4756-8089-207BA8D5ED15}|FitnessApplication\\FitnessApplication.csproj|solutionrelative:fitnessapplication\\views\\coaches\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0454229A-7CCA-4756-8089-207BA8D5ED15}|FitnessApplication\\FitnessApplication.csproj|c:\\users\\onur\\source\\repos\\fitnessapplication\\fitnessapplication\\views\\account\\myinformation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0454229A-7CCA-4756-8089-207BA8D5ED15}|FitnessApplication\\FitnessApplication.csproj|solutionrelative:fitnessapplication\\views\\account\\myinformation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0454229A-7CCA-4756-8089-207BA8D5ED15}|FitnessApplication\\FitnessApplication.csproj|c:\\users\\onur\\source\\repos\\fitnessapplication\\fitnessapplication\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0454229A-7CCA-4756-8089-207BA8D5ED15}|FitnessApplication\\FitnessApplication.csproj|solutionrelative:fitnessapplication\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0454229A-7CCA-4756-8089-207BA8D5ED15}|FitnessApplication\\FitnessApplication.csproj|c:\\users\\onur\\source\\repos\\fitnessapplication\\fitnessapplication\\views\\account\\editinformation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0454229A-7CCA-4756-8089-207BA8D5ED15}|FitnessApplication\\FitnessApplication.csproj|solutionrelative:fitnessapplication\\views\\account\\editinformation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0454229A-7CCA-4756-8089-207BA8D5ED15}|FitnessApplication\\FitnessApplication.csproj|c:\\users\\onur\\source\\repos\\fitnessapplication\\fitnessapplication\\views\\coaches\\userprograms.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0454229A-7CCA-4756-8089-207BA8D5ED15}|FitnessApplication\\FitnessApplication.csproj|solutionrelative:fitnessapplication\\views\\coaches\\userprograms.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0454229A-7CCA-4756-8089-207BA8D5ED15}|FitnessApplication\\FitnessApplication.csproj|c:\\users\\onur\\source\\repos\\fitnessapplication\\fitnessapplication\\wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0454229A-7CCA-4756-8089-207BA8D5ED15}|FitnessApplication\\FitnessApplication.csproj|solutionrelative:fitnessapplication\\wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0454229A-7CCA-4756-8089-207BA8D5ED15}|FitnessApplication\\FitnessApplication.csproj|c:\\users\\onur\\source\\repos\\fitnessapplication\\fitnessapplication\\wwwroot\\css\\footer.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0454229A-7CCA-4756-8089-207BA8D5ED15}|FitnessApplication\\FitnessApplication.csproj|solutionrelative:fitnessapplication\\wwwroot\\css\\footer.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0454229A-7CCA-4756-8089-207BA8D5ED15}|FitnessApplication\\FitnessApplication.csproj|c:\\users\\onur\\source\\repos\\fitnessapplication\\fitnessapplication\\wwwroot\\css\\editinformation.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0454229A-7CCA-4756-8089-207BA8D5ED15}|FitnessApplication\\FitnessApplication.csproj|solutionrelative:fitnessapplication\\wwwroot\\css\\editinformation.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0454229A-7CCA-4756-8089-207BA8D5ED15}|FitnessApplication\\FitnessApplication.csproj|c:\\users\\onur\\source\\repos\\fitnessapplication\\fitnessapplication\\wwwroot\\css\\account.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0454229A-7CCA-4756-8089-207BA8D5ED15}|FitnessApplication\\FitnessApplication.csproj|solutionrelative:fitnessapplication\\wwwroot\\css\\account.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0454229A-7CCA-4756-8089-207BA8D5ED15}|FitnessApplication\\FitnessApplication.csproj|c:\\users\\onur\\source\\repos\\fitnessapplication\\fitnessapplication\\views\\home\\userlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0454229A-7CCA-4756-8089-207BA8D5ED15}|FitnessApplication\\FitnessApplication.csproj|solutionrelative:fitnessapplication\\views\\home\\userlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0454229A-7CCA-4756-8089-207BA8D5ED15}|FitnessApplication\\FitnessApplication.csproj|c:\\users\\onur\\source\\repos\\fitnessapplication\\fitnessapplication\\wwwroot\\css\\navbar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0454229A-7CCA-4756-8089-207BA8D5ED15}|FitnessApplication\\FitnessApplication.csproj|solutionrelative:fitnessapplication\\wwwroot\\css\\navbar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0454229A-7CCA-4756-8089-207BA8D5ED15}|FitnessApplication\\FitnessApplication.csproj|c:\\users\\onur\\source\\repos\\fitnessapplication\\fitnessapplication\\wwwroot\\css\\myinformation.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0454229A-7CCA-4756-8089-207BA8D5ED15}|FitnessApplication\\FitnessApplication.csproj|solutionrelative:fitnessapplication\\wwwroot\\css\\myinformation.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0454229A-7CCA-4756-8089-207BA8D5ED15}|FitnessApplication\\FitnessApplication.csproj|c:\\users\\onur\\source\\repos\\fitnessapplication\\fitnessapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0454229A-7CCA-4756-8089-207BA8D5ED15}|FitnessApplication\\FitnessApplication.csproj|solutionrelative:fitnessapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:648089431:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "login.css",
+              "DocumentMoniker": "C:\\Users\\Onur\\source\\repos\\FitnessApplication\\FitnessApplication\\wwwroot\\css\\login.css",
+              "RelativeDocumentMoniker": "FitnessApplication\\wwwroot\\css\\login.css",
+              "ToolTip": "C:\\Users\\Onur\\source\\repos\\FitnessApplication\\FitnessApplication\\wwwroot\\css\\login.css",
+              "RelativeToolTip": "FitnessApplication\\wwwroot\\css\\login.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-02T21:47:39.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Onur\\source\\repos\\FitnessApplication\\FitnessApplication\\Views\\Coaches\\Register.cshtml",
+              "RelativeDocumentMoniker": "FitnessApplication\\Views\\Coaches\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Onur\\source\\repos\\FitnessApplication\\FitnessApplication\\Views\\Coaches\\Register.cshtml",
+              "RelativeToolTip": "FitnessApplication\\Views\\Coaches\\Register.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T21:39:55.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "editinformation.css",
+              "DocumentMoniker": "C:\\Users\\Onur\\source\\repos\\FitnessApplication\\FitnessApplication\\wwwroot\\css\\editinformation.css",
+              "RelativeDocumentMoniker": "FitnessApplication\\wwwroot\\css\\editinformation.css",
+              "ToolTip": "C:\\Users\\Onur\\source\\repos\\FitnessApplication\\FitnessApplication\\wwwroot\\css\\editinformation.css",
+              "RelativeToolTip": "FitnessApplication\\wwwroot\\css\\editinformation.css",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-02T21:37:57.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "account.css",
+              "DocumentMoniker": "C:\\Users\\Onur\\source\\repos\\FitnessApplication\\FitnessApplication\\wwwroot\\css\\account.css",
+              "RelativeDocumentMoniker": "FitnessApplication\\wwwroot\\css\\account.css",
+              "ToolTip": "C:\\Users\\Onur\\source\\repos\\FitnessApplication\\FitnessApplication\\wwwroot\\css\\account.css",
+              "RelativeToolTip": "FitnessApplication\\wwwroot\\css\\account.css",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-02T21:37:53.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Support.css",
+              "DocumentMoniker": "C:\\Users\\Onur\\source\\repos\\FitnessApplication\\FitnessApplication\\wwwroot\\css\\Support.css",
+              "RelativeDocumentMoniker": "FitnessApplication\\wwwroot\\css\\Support.css",
+              "ToolTip": "C:\\Users\\Onur\\source\\repos\\FitnessApplication\\FitnessApplication\\wwwroot\\css\\Support.css",
+              "RelativeToolTip": "FitnessApplication\\wwwroot\\css\\Support.css",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAuwFEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-02T21:22:04.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Support.cshtml",
+              "DocumentMoniker": "C:\\Users\\Onur\\source\\repos\\FitnessApplication\\FitnessApplication\\Views\\Account\\Support.cshtml",
+              "RelativeDocumentMoniker": "FitnessApplication\\Views\\Account\\Support.cshtml",
+              "ToolTip": "C:\\Users\\Onur\\source\\repos\\FitnessApplication\\FitnessApplication\\Views\\Account\\Support.cshtml",
+              "RelativeToolTip": "FitnessApplication\\Views\\Account\\Support.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T21:21:03.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "myinformation.css",
+              "DocumentMoniker": "C:\\Users\\Onur\\source\\repos\\FitnessApplication\\FitnessApplication\\wwwroot\\css\\myinformation.css",
+              "RelativeDocumentMoniker": "FitnessApplication\\wwwroot\\css\\myinformation.css",
+              "ToolTip": "C:\\Users\\Onur\\source\\repos\\FitnessApplication\\FitnessApplication\\wwwroot\\css\\myinformation.css",
+              "RelativeToolTip": "FitnessApplication\\wwwroot\\css\\myinformation.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-02T21:07:22.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Onur\\source\\repos\\FitnessApplication\\FitnessApplication\\Views\\Coaches\\Index.cshtml",
+              "RelativeDocumentMoniker": "FitnessApplication\\Views\\Coaches\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Onur\\source\\repos\\FitnessApplication\\FitnessApplication\\Views\\Coaches\\Index.cshtml",
+              "RelativeToolTip": "FitnessApplication\\Views\\Coaches\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T19:50:25.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Onur\\source\\repos\\FitnessApplication\\FitnessApplication\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FitnessApplication\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Onur\\source\\repos\\FitnessApplication\\FitnessApplication\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FitnessApplication\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T08:39:17.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MyInformation.cshtml",
+              "DocumentMoniker": "C:\\Users\\Onur\\source\\repos\\FitnessApplication\\FitnessApplication\\Views\\Account\\MyInformation.cshtml",
+              "RelativeDocumentMoniker": "FitnessApplication\\Views\\Account\\MyInformation.cshtml",
+              "ToolTip": "C:\\Users\\Onur\\source\\repos\\FitnessApplication\\FitnessApplication\\Views\\Account\\MyInformation.cshtml",
+              "RelativeToolTip": "FitnessApplication\\Views\\Account\\MyInformation.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T20:39:16.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Onur\\source\\repos\\FitnessApplication\\FitnessApplication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FitnessApplication\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Onur\\source\\repos\\FitnessApplication\\FitnessApplication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FitnessApplication\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAABUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T09:05:13.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "home.css",
+              "DocumentMoniker": "C:\\Users\\Onur\\source\\repos\\FitnessApplication\\FitnessApplication\\wwwroot\\css\\home.css",
+              "RelativeDocumentMoniker": "FitnessApplication\\wwwroot\\css\\home.css",
+              "ToolTip": "C:\\Users\\Onur\\source\\repos\\FitnessApplication\\FitnessApplication\\wwwroot\\css\\home.css",
+              "RelativeToolTip": "FitnessApplication\\wwwroot\\css\\home.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-02T08:46:46.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserPrograms.cshtml",
+              "DocumentMoniker": "C:\\Users\\Onur\\source\\repos\\FitnessApplication\\FitnessApplication\\Views\\Coaches\\UserPrograms.cshtml",
+              "RelativeDocumentMoniker": "FitnessApplication\\Views\\Coaches\\UserPrograms.cshtml",
+              "ToolTip": "C:\\Users\\Onur\\source\\repos\\FitnessApplication\\FitnessApplication\\Views\\Coaches\\UserPrograms.cshtml",
+              "RelativeToolTip": "FitnessApplication\\Views\\Coaches\\UserPrograms.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T20:07:20.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProgramDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\Onur\\source\\repos\\FitnessApplication\\FitnessApplication\\Views\\Coaches\\ProgramDetails.cshtml",
+              "RelativeDocumentMoniker": "FitnessApplication\\Views\\Coaches\\ProgramDetails.cshtml",
+              "ToolTip": "C:\\Users\\Onur\\source\\repos\\FitnessApplication\\FitnessApplication\\Views\\Coaches\\ProgramDetails.cshtml",
+              "RelativeToolTip": "FitnessApplication\\Views\\Coaches\\ProgramDetails.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T20:11:51.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Onur\\source\\repos\\FitnessApplication\\FitnessApplication\\Views\\Account\\Index.cshtml",
+              "RelativeDocumentMoniker": "FitnessApplication\\Views\\Account\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Onur\\source\\repos\\FitnessApplication\\FitnessApplication\\Views\\Account\\Index.cshtml",
+              "RelativeToolTip": "FitnessApplication\\Views\\Account\\Index.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T19:57:16.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Onur\\source\\repos\\FitnessApplication\\FitnessApplication\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "FitnessApplication\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Onur\\source\\repos\\FitnessApplication\\FitnessApplication\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "FitnessApplication\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T20:35:15.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "footer.css",
+              "DocumentMoniker": "C:\\Users\\Onur\\source\\repos\\FitnessApplication\\FitnessApplication\\wwwroot\\css\\footer.css",
+              "RelativeDocumentMoniker": "FitnessApplication\\wwwroot\\css\\footer.css",
+              "ToolTip": "C:\\Users\\Onur\\source\\repos\\FitnessApplication\\FitnessApplication\\wwwroot\\css\\footer.css",
+              "RelativeToolTip": "FitnessApplication\\wwwroot\\css\\footer.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-02T20:47:44.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Onur\\source\\repos\\FitnessApplication\\FitnessApplication\\Views\\Coaches\\Login.cshtml",
+              "RelativeDocumentMoniker": "FitnessApplication\\Views\\Coaches\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Onur\\source\\repos\\FitnessApplication\\FitnessApplication\\Views\\Coaches\\Login.cshtml",
+              "RelativeToolTip": "FitnessApplication\\Views\\Coaches\\Login.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T19:57:19.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EditInformation.cshtml",
+              "DocumentMoniker": "C:\\Users\\Onur\\source\\repos\\FitnessApplication\\FitnessApplication\\Views\\Account\\EditInformation.cshtml",
+              "RelativeDocumentMoniker": "FitnessApplication\\Views\\Account\\EditInformation.cshtml",
+              "ToolTip": "C:\\Users\\Onur\\source\\repos\\FitnessApplication\\FitnessApplication\\Views\\Account\\EditInformation.cshtml",
+              "RelativeToolTip": "FitnessApplication\\Views\\Account\\EditInformation.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T20:38:23.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Onur\\source\\repos\\FitnessApplication\\FitnessApplication\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "FitnessApplication\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Onur\\source\\repos\\FitnessApplication\\FitnessApplication\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "FitnessApplication\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAQwDMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T20:03:16.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Navbar.css",
+              "DocumentMoniker": "C:\\Users\\Onur\\source\\repos\\FitnessApplication\\FitnessApplication\\wwwroot\\css\\Navbar.css",
+              "RelativeDocumentMoniker": "FitnessApplication\\wwwroot\\css\\Navbar.css",
+              "ToolTip": "C:\\Users\\Onur\\source\\repos\\FitnessApplication\\FitnessApplication\\wwwroot\\css\\Navbar.css",
+              "RelativeToolTip": "FitnessApplication\\wwwroot\\css\\Navbar.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-02T20:24:32.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserList.cshtml",
+              "DocumentMoniker": "C:\\Users\\Onur\\source\\repos\\FitnessApplication\\FitnessApplication\\Views\\Home\\UserList.cshtml",
+              "RelativeDocumentMoniker": "FitnessApplication\\Views\\Home\\UserList.cshtml",
+              "ToolTip": "C:\\Users\\Onur\\source\\repos\\FitnessApplication\\FitnessApplication\\Views\\Home\\UserList.cshtml",
+              "RelativeToolTip": "FitnessApplication\\Views\\Home\\UserList.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T11:56:02.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CoachesController.cs",
+              "DocumentMoniker": "C:\\Users\\Onur\\source\\repos\\FitnessApplication\\FitnessApplication\\Controllers\\CoachesController.cs",
+              "RelativeDocumentMoniker": "FitnessApplication\\Controllers\\CoachesController.cs",
+              "ToolTip": "C:\\Users\\Onur\\source\\repos\\FitnessApplication\\FitnessApplication\\Controllers\\CoachesController.cs",
+              "RelativeToolTip": "FitnessApplication\\Controllers\\CoachesController.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAgwDoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T11:52:51.535Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

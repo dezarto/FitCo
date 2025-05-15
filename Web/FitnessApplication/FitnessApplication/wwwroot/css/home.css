@@ -1,0 +1,156 @@
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@200;600&display=swap");
+
+body {
+    font-family: "Oswald", sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+section {
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.homerow {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    height: 100vh;
+}
+
+.card {
+    position: relative;
+    height: 400px;
+    width: 100%;
+    max-width: 300px;
+    margin: 10px;
+    transition: all 2.3s ease;
+}
+
+    .card:hover .cover:before {
+        transform: translateZ(30px);
+    }
+
+    .card:hover .cover:after {
+        background-size: cover;
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-image: url("../Photo/pexels-victorfreitas-703012.jpg");
+    }
+
+    .card:hover .cover h1 {
+        transform: translateZ(100px);
+    }
+
+    .card:hover .cover .price {
+        transform: translateZ(60px);
+    }
+    .card:hover .cover {
+        background-image: url("../Photo/pexels-victorfreitas-703012.jpg");
+    }
+
+    .cover {
+        position: absolute;
+        height: 100%;
+        width: 100%;
+        transition: all 2.3s ease;
+        background-size: cover;
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-image: url("../Photo/pexels-victorfreitas-703012.jpg");
+    }
+
+    .cover:before {
+        content: "";
+        position: absolute;
+        border: 5px solid rgba(255, 255, 255, 0.5);
+        box-shadow: 0 0 12px rgba(0, 0, 0, 0.3);
+        top: 20px;
+        left: 20px;
+        right: 20px;
+        bottom: 20px;
+        z-index: 2;
+        transition: all 2.3s ease;
+    }
+
+    .cover:after {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        z-index: 2;
+        transition: all 1.3s ease;
+        background: rgba(0, 0, 0, 0.4);
+    }
+
+.item-a {
+    background-image: url("../Photo/pexels-victorfreitas-703012.jpg");
+}
+
+.item-b {
+    background-image: url("../Photo/pexels-victorfreitas-703012.jpg");
+}
+
+.item-c {
+    background-image: url("../Photo/pexels-victorfreitas-703012.jpg");
+}
+
+.cover h1 {
+    font-weight: 600;
+    position: absolute;
+    bottom: 55px;
+    left: 50px;
+    color: white;
+    transition: all 2.3s ease;
+    z-index: 3;
+    font-size: 3em;
+}
+
+.cover .price {
+    font-weight: 200;
+    position: absolute;
+    top: 55px;
+    right: 50px;
+    color: white;
+    transition: all 2.3s ease;
+    z-index: 4;
+    font-size: 2em;
+}
+
+.card-back {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background: #0b0f08;
+    transition: all 2.3s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+    .card-back a {
+        transition: background 0.5s ease;
+        background: transparent;
+        border: 1px solid white;
+        font-weight: 200;
+        font-size: 1.3em;
+        color: white;
+        padding: 14px 32px;
+        outline: none;
+        text-decoration: none;
+    }
+
+        .card-back a:hover {
+            background-color: white;
+            color: #0b0f08;
+        }
+
+/* Responsive */
+@media (max-width: 767px) {
+    .col-md-4, .col-sm-6, .col-xs-12 {
+        width: 100%;
+    }
+}

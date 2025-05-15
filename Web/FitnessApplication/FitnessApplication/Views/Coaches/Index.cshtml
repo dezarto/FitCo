@@ -1,0 +1,31 @@
+﻿@model IEnumerable<string>
+
+@{
+    ViewData["Title"] = "User List";
+    Layout = "_Layout";
+}
+
+<h1 style="color: white;">User List</h1>
+
+@if (ViewData["ErrorMessage"] != null)
+{
+    <div class="alert alert-danger">@ViewData["ErrorMessage"]</div>
+}
+
+<table style="margin-top:7%;" class="table">
+    <thead>
+        <tr>
+            <th>Document Name</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var documentName in Model)
+        {
+            <tr>
+                <td>
+                    <a style="color: black; text-decoration: none; " href="@Url.Action("UserPrograms", "Coaches", new { id = documentName })">@documentName</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

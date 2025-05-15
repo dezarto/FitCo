@@ -1,0 +1,41 @@
+﻿@model IDictionary<string, string>
+
+@{
+    ViewData["Title"] = "Program Details";
+    string userId = ViewData["UserId"] as string;
+    string programId = ViewData["ProgramId"] as string;
+}
+
+<h1 style="color: black;">Program Details for @programId</h1>
+
+@if (ViewData["ErrorMessage"] != null)
+{
+    <div class="alert alert-danger">@ViewData["ErrorMessage"]</div>
+}
+
+<form asp-action="ProgramDetails" method="post">
+    <input type="hidden" name="userId" value="@userId" />
+    <input type="hidden" name="programId" value="@programId" />
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Field</th>
+                <th>Value</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var detail in Model)
+            {
+                <tr style="color: black;">
+                    <td style="color: black;">@detail.Key</td>
+                    <td>
+                        <input type="text" name="programDetails[@detail.Key]" value="@detail.Value" class="form-control" />
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <button style="color: black; margin: 5% " type="submit" class="btn btn-primary">Save</button>
+</form>

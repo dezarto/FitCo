@@ -1,0 +1,56 @@
+﻿@using FitnessApplication.Controllers
+
+@{
+    Layout = "_Layout";
+}
+
+@model User
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fitness App - My Information</title>
+    <link rel="stylesheet" href="~/css/myinformation.css">
+</head>
+<body>
+    
+
+    <main>
+        <section style="margin: 7%;"> 
+            <h2>My Information</h2>
+            <div class="profile">
+                
+                <div class="profile-details">
+                    <h3>@Model.Name @Model.Surname</h3>
+                    <p>@Model.Email</p>
+                </div>
+            </div>
+
+            <div class="info-details">
+                <div class="detail">
+                    <label for="email">Email:</label>
+                    <p id="email">@Model.Email</p>
+                </div>
+                <div class="detail">
+                    <label for="name">Name:</label>
+                    <p id="name">@Model.Name</p>
+                </div>
+                <div class="detail">
+                    <label for="surname">Surname:</label>
+                    <p id="surname">@Model.Surname</p>
+                </div>
+                <div class="detail">
+                    <label for="username">Username:</label>
+                    <p id="username">@Model.Username</p>
+                </div>
+                
+                
+            </div>
+            <a href="EditInformation"><button>Edit Profile</button></a>
+        </section>
+    </main>
+
+</body>
+</html>

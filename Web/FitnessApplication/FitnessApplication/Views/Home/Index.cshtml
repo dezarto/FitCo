@@ -1,0 +1,33 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    Layout = "_Layout";
+}
+
+
+<section>
+	<div class="homerow">
+		<div class="col-md-4 col-sm-6 col-xs-12">
+			<div class="card">
+				<div class="cover item-a">
+					<a href="@Url.Action("Index","Coaches")"><h1>Training <br>Program</h1></a>
+
+                </div>
+			</div>
+		</div>
+		<div class="col-md-4 col-sm-6 col-xs-12">
+			<div class="card">
+				<div class="cover item-b">
+					<a href="@Url.Action("Index","Coaches")"><h1>Diet <br>Program</h1></a>
+	
+				</div>
+			</div>
+		</div>
+		<div class="col-md-4 col-sm-6 col-xs-12">
+			<div class="card">
+				<div class="cover item-c">
+					<a href="@Url.Action("Index","Coaches")"><h1>Body <br>measurements</h1></a>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>

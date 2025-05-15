@@ -1,0 +1,60 @@
+﻿@{
+    ViewData["Title"] = "User List";
+    Layout = "_Layout";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User List</title>
+</head>
+<body>
+    <h1>User List</h1>
+    <ul id="user-list"></ul>
+
+    <!-- Firebase JavaScript SDK -->
+    <script src="https://www.gstatic.com/firebasejs/9.0.2/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.0.2/firebase-firestore.js"></script>
+
+    <script>
+        // Firebase yapılandırma
+        const firebaseConfig = {
+            apiKey: "YOUR_API_KEY",
+            authDomain: "YOUR_AUTH_DOMAIN",
+            projectId: "YOUR_PROJECT_ID",
+            storageBucket: "YOUR_STORAGE_BUCKET",
+            messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
+            appId: "YOUR_APP_ID"
+        };
+
+        // Firebase uygulamasını başlat
+        const app = firebase.initializeApp(firebaseConfig);
+
+        // Firestore referansı
+        const db = firebase.firestore(app);
+
+        // Kullanıcıları alıp listeleyen fonksiyon
+        async function getUsers() {
+            const userList = document.getElementById('user-list');
+            try {
+                const querySnapshot = await db.collection("users").get();
+                querySnapshot.forEach((doc) => {
+                    const userData = doc.data();
+                    const li = document.createElement("li");
+                    li.textContent = `${userData.firstName} ${userData.lastName}`;
+                    userList.appendChild(li);
+                });
+            } catch (error) {
+                console.error("Error getting users: ", error);
+            }
+        }
+
+        // Sayfa yüklendiğinde kullanıcıları al ve listele
+        document.addEventListener('DOMContentLoaded', () => {
+            getUsers();
+        });
+    </script>
+</body>
+</html>
